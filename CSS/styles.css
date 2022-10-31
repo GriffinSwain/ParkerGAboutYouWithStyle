@@ -1,0 +1,82 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  } */
+
+  /* This will target all elements with this tag */
+  li {
+    color: blue;
+}
+body
+{
+    background: url("Images/MySpace.png");
+    background-repeat: no-repeat;
+}
+.myDiv {
+    position: absolute; 
+    top:65px; 
+    left:0px; 
+    margin-left:20px; 
+    margin-right:0px;
+    
+}
+.testDiv {
+    position: absolute; 
+    top:53px; 
+    margin-left:320px; 
+    margin-right:580;
+}
+.linkDiv {
+    position: absolute; 
+    top:230px; 
+    margin-left:320px; 
+    margin-right:580;
+}
+.aboutDiv {
+    position: absolute; 
+    top:360px; 
+    margin-left:330; 
+    margin-right:580;
+}
+.zomboDiv{
+    position: absolute; 
+    top:400px;  
+    margin-left:53; 
+    margin-right:580; 
+}
+ol {
+    color:darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h4 {
+    color:sandybrown;
+    font-style:oblique;
+}
+
+h5 {
+color: ;
+}
+
+/* To do a class selector we start with .(name) {} */
+
+.testMe {
+    color: darkslategrey;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Hello {
+    color: lightseagreen;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+}
+
+#onlyMe {
+    font-size: 3em;
+    color:thistle;
+    font-style: italic;
+    font-family: fantasy;
+}
