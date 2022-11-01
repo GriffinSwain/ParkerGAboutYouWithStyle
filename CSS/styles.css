@@ -68,12 +68,32 @@ body
     margin-right:580;
 }
 
+.tomPicDiv{
+    position: absolute; 
+    top:285px;  
+    margin-left:55; 
+    margin-right:580;
+}
+
+.friendsDiv{
+    position: absolute; 
+    top:278px;  
+    margin-left:15; 
+    margin-right:580; 
+}
+
 .zomboDiv{
     position: absolute; 
     top:400px;  
     margin-left:43; 
     margin-right:580; 
 }
+
+
+
+
+
+
 ol {
     color:darkcyan;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
